@@ -1,5 +1,4 @@
-<h1 align="center">Yo 😎, I'm Hmimi</h1>
-<h3 align="center">A Programming Aficionados</h3>
+<h1 align="center">Hey there ! I'm Ahmed</h1>
 
 ## 👨‍🏫 About me:
 
