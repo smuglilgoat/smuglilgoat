@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Full Stack**
 
-- 📫 How to reach me **k.mame2810@gmail.com**
+- 📫 How to reach me **ahmdmoussaui@gmail.com**
 
 - 📄 Know about my experiences [On my LinkedIn](https://www.linkedin.com/in/ahmed-moussaoui-581518203/)
 
