@@ -4,7 +4,7 @@
 
 - 📚 I’m currently studying **Visual Computing**
 
-- 🌱 I’m currently learning **Machine Learning and Full Stack**
+- 🌱 I’m currently learning **Machine Learning and Unity**
 
 - 📫 How to reach me **ahmdmoussaui@gmail.com**
 
