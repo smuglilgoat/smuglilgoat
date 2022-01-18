@@ -2,9 +2,9 @@
 
 ## 👨‍🏫 About me:
 
-- 📚 I’m currently studying **Visual Computing**
+- 💻 I’m a **Visual Computing Engineer and Full-Stack Developper**
 
-- 🌱 I’m currently learning **Machine Learning and Unity**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ahmdmoussaui@gmail.com**
 
