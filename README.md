@@ -1,6 +1,6 @@
-<img align="left" src="https://media3.giphy.com/media/1hmanmaWRCwiYnzWku/giphy.gif" style="margin-right: 10px">
+# 🦉 Hey there !
 
-## 🦉 Hey there !
+![Header](http://www.owlboygame.com/gifs/otus/otus_happyX2.gif) 
 
 I am Ahmed a **Visual Computing Engineer 🎨 and Full-Stack Developer 💻** and this is my Github. Why don't you take a look at some of the amazing things I've made ?
 <hr/>
@@ -54,5 +54,5 @@ I am Ahmed a **Visual Computing Engineer 🎨 and Full-Stack Developer 💻** an
 ## 📧 Want to contact me ? 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-moussaoui-581518203/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmdmoussaui@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmoussaouimz@gmail.com)
 
