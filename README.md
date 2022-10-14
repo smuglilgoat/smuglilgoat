@@ -1,9 +1,4 @@
-# 🦉 Hey there !
-
-![Header](http://www.owlboygame.com/gifs/otus/otus_happyX2.gif) 
-
-I am Ahmed a **Visual Computing Engineer 🎨 and Full-Stack Developer 💻** and this is my Github. Why don't you take a look at some of the amazing things I've made ?
-<hr/>
+<a href="https://ibb.co/xDxLQF0"><img src="https://i.ibb.co/hy39vYj/readme-header.gif" alt="readme-header" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 ## 🔧 Stuff I learned so far 
 <span style="text-align: center">
