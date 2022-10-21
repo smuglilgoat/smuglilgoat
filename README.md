@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/hy39vYj/readme-header.gif" width="100%"/>
+<img src="https://i.ibb.co/SPFypf8/readme-header.gif" width="100%"/>
 
 ## 🔧 Stuff I learned so far 
 <span style="text-align: center">
