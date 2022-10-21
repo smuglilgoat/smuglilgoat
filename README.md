@@ -1,5 +1,4 @@
-<a href="https://ibb.co/xDxLQF0"><img src="https://i.ibb.co/hy39vYj/readme-header.gif" alt="readme-header" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-
+<img src="https://i.ibb.co/hy39vYj/readme-header.gif" />
 ## 🔧 Stuff I learned so far 
 <span style="text-align: center">
 
