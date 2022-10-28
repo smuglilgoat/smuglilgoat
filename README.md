@@ -1,6 +1,16 @@
 <img src="https://i.ibb.co/SPFypf8/readme-header.gif" width="100%"/>
 
+## 📧 Want to contact me ? 
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
+
+[![Gmail](https://imgur.com/qzdA7AJ.png)](mailto:ahmedmoussaouimz@gmail.com)
+[![Instagram](https://imgur.com/lFwJtqP.png)](https://www.instagram.com/grumpylilowl_/)
+[![LinkedIn](https://imgur.com/oKnI7pK.png)](https://www.linkedin.com/in/ahmed-moussaoui/)
+
 ## 🔧 Stuff I learned so far 
+
 <span style="text-align: center">
 
 ### Languages
@@ -26,15 +36,6 @@
 
 <hr/>
 
-## 👨‍🏫 Things am currently learning
-<span style="text-align: center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</span>
-
-<hr/>
-
 ## 📈 GitHub Stats
 
 <a href="https://github.com/smuglilgoat">
@@ -46,8 +47,5 @@
 
 <hr/>
 
-## 📧 Want to contact me ? 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-moussaoui-581518203/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmoussaouimz@gmail.com)
 
